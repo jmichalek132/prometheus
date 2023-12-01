@@ -25,7 +25,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/snappy v0.0.4
 	github.com/google/pprof v0.0.0-20230926050212-f7f687d19a98
-	github.com/google/uuid v1.3.1
+	github.com/google/uuid v1.4.0
 	github.com/gophercloud/gophercloud v1.7.0
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
